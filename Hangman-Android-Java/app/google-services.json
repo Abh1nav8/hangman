@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "173583090253",
+    "firebase_url": "https://hangman-database-scoreboard.firebaseio.com",
+    "project_id": "hangman-database-scoreboard",
+    "storage_bucket": "hangman-database-scoreboard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173583090253:android:775387cf4b7f980bbd1204",
+        "android_client_info": {
+          "package_name": "com.example.hangman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173583090253-kum9fq522h6vjbvrt8t4dhgmfkr8qge0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDddk54E_mALTx1aZ6AU_Ou0ppqnD9dnYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173583090253-kum9fq522h6vjbvrt8t4dhgmfkr8qge0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
